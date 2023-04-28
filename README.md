@@ -1,8 +1,10 @@
 # 👋 Hi, I’m **Maria Holovko**
 
-## I am Project Manager from Ukraine. I live in Belgium now
+## I am Project Manager from Ukraine
 
-## I want to switch my career to Frontend Development
+### I live in Belgium now
+
+### I want to switch my career to Frontend Development
 
 &nbsp;
 
@@ -10,11 +12,13 @@
 
 &nbsp;
 
-## - 👀 I’m interested in coding
+### - 👀 I’m interested in coding
 
-## - 🌱 I’m currently learning Frontend Development at HuckYourFuture school in Brussels
+### - 🌱 I’m currently learning Frontend Development
 
-## - 📫 How to reach me: @Mariya_Holovko
+### at [HYF](https://hackyourfuture.be/) in Brussels
+
+### - 📫 How to reach me: @Mariya_Holovko
 
 <!---
 Mariya-go/Mariya-go is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
